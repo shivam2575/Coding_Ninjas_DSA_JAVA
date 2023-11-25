@@ -1,7 +1,7 @@
 package priority_queue_2;
 
 import java.util.Collections;
-import java.util.LinkedHashSet;
+import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Queue;
 

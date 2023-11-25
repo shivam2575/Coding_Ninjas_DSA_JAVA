@@ -1,7 +1,5 @@
 package Stack;
 
-import java.util.Stack;
-
 import Linked_list_1.Node;
 
 public class stack_ll<T> {
@@ -39,6 +37,5 @@ public class stack_ll<T> {
             throw new stack_empty_exception();
         }
         return head.data;
-        Stack<Integer> a = new Stack<>();
     }
 }
